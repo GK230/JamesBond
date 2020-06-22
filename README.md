@@ -1,0 +1,1 @@
+This is a text adventure based on Bond films, written in OO Python.(!)
